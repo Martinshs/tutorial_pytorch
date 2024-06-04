@@ -16,7 +16,7 @@ In this repository, we present a basic tutorial for PyTorch. We provide basic ex
     - 2.4. Three-Layer Neural Network (MNIST)
     - 2.5. ResNet for Classification
 
-The final example, in particular, allows us to observe how mini-batch gradient descent can overcome saddle points to achieve data classification. We also show how evolves the "dynamics" of the neural networks as is shown in the animation below. 
+The final example, in particular, allows us to observe how mini-batch gradient descent can overcome saddle points to achieve data classification. We also show how the "dynamic" of a residual neural network evolves, as shown in the animation below. 
 
 <img src="https://github.com/Martinshs/tutorial_pytorch/blob/main/gifs/Simulation.gif" height = 300px >
 
